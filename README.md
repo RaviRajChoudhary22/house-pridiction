@@ -189,19 +189,3 @@ Measures how much of the variation in the target variable is explained by the mo
 * Strengthen API input validation and error handling.
 * Deploy the application to a cloud platform.
 * Add automated testing and continuous integration.
-
-## Author
-
-**Priyanshu Kumar Verma**
-
-AI/ML Research Enthusiast | Deep Learning | Generative AI
-
-GitHub: [priyanshukumarverma091-hub](https://github.com/priyanshukumarverma091-hub)
-
-## License
-
-A license can be added to the repository to specify the terms under which the project may be used, modified, and distributed.
-
----
-
-If you find this project useful, consider starring the repository.
